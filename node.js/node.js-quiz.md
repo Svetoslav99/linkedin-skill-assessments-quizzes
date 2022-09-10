@@ -299,7 +299,7 @@ fs.appendFile('hello.txt', `Hello ${user} on ${system}`, (err) => { if (err) thr
 
 [Reference](https://nodejs.org/docs/latest-v16.x/api/process.html)
 
-#### Q35. What is the command to get a list of available commands for Node.js?What is the command to get a list of available commands for Node.js?
+#### Q35. What is the command to get a list of available commands for Node.js?
 
 - [ ] node index.js -x
 - [ ] node -v
