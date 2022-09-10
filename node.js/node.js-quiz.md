@@ -246,7 +246,7 @@ fs.appendFile('hello.txt', `Hello ${user} on ${system}`, (err) => { if (err) thr
 - [ ] console logs system information
 - [ ] creates a file named data and append numbers
 
-#### Q28. How do you start a Node application, if the entry file is indexjs?
+#### Q28. How do you start a Node application, if the entry file is index.js?
 
 - [ ] nodemon start
 - [ ] start index.js
