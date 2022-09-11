@@ -797,7 +797,7 @@ Explanation: Both `SET` and `DECLARE` are used to create variables. Reference: [
 - [ ] To calculate a new single value from a result set and return it to the query parser.
 - [x] To break down complex queries and allow reuse within a query.
 
-Explanation: CTEs do not create temporary tables, they only work within a signle query. Reference: [13.2.15 WITH (Common Table Expressions)](https://dev.mysql.com/doc/refman/8.0/en/with.html).
+Explanation: CTEs do not create temporary tables, they only work within a single query. Reference: [13.2.15 WITH (Common Table Expressions)](https://dev.mysql.com/doc/refman/8.0/en/with.html).
 
 #### Q86. Which option modifier tells a program not to exit with an error if it does not recognize the option, but instead to issue a warning?
 
