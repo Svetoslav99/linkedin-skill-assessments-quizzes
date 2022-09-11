@@ -189,7 +189,7 @@
 - [x] `db.customers.find();`
 - [ ] `db.customers.show();`
 
-#### Q28. Given a cursor named myCursor, pointing to the customers collection, how to you get basic info about it?
+#### Q28. Given a cursor named myCursor, pointing to the customers collection, how do you get basic info about it?
 
 - [ ] `myCursor.stats()`
 - [ ] `myCursor.dump()`
